@@ -9,8 +9,8 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### Links
 
-- Solution URL: [Available on Frontend Mentor](https://www.frontendmentor.io/solutions/article-component-in-react-that-dosent-require-using-react-ymIh7lynQy)
-- Live Site URL: [Hosted on Vercel](https://fm-article-eight.vercel.app/)
+- Solution URL: [Available on Frontend Mentor](https://www.frontendmentor.io/solutions/time-tracking-dahsboard-made-with-react-tailwindcss-iFq2sbqgIC)
+- Live Site URL: [Hosted on Vercel](https://fm-time-tracking-weld.vercel.app/)
 
 ## My process
 
